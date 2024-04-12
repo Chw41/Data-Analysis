@@ -5,7 +5,8 @@
 ├── README.md
 └── Topic
     ├── Bingo game
-    ├── Triangle 
-    └── Vector3
-
+    ├── Triangle
+    ├── Vector3
+    ├── numpy 1
+    └── numpy 2
 ```
